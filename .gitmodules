@@ -1,3 +1,6 @@
 [submodule "module-template"]
 	path = module-template
 	url = https://github.com/Tarannu/dapp-core-module-http-server-template.git
+[submodule "plugins/dapp-core-module-http-server-template"]
+	path = plugins/dapp-core-module-http-server-template
+	url = https://github.com/Tarannu/dapp-core-module-http-server-template.git
